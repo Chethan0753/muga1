@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fresh-argon-466710-m4",
+  "private_key_id": "b13941988511de27998f7e4ef6b0bd4131b08a53",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9S+A1auyzX3Ht\nSJe+DHkVeExbqEaeN6OKMCS8NxkM94fhYsH8bTzsdmdaw/8H0NMKEdbNGkAVB4B0\nyNDTP1NydgsI2saP21lQMMHEzs/2p+6Bc50H8Q2e1ejAOLUkw6bwGou7NSyOGxsW\nBgmGz4gykfkZBAX7+CJzPe0ANvN+6oILr1UCeZlAytDkeHylY6cO7HltQeU97fNu\ncIDLCDWoDfN2Sv7d5boxs9JD2gqhrchRCtRhyPejiOhnJu8hf+NjxFFYzuLbO6/8\nvMcR4823OpWMSZj1ufl1DNSqDv55AkQOWhApiqjFansZuLN4bIrfAAVdstHGOeVs\ndTIiDdn5AgMBAAECggEAWzAafVEZXl1Loe023//dMnkFe5/oCN6voumHQL3gDO2P\nIQV0glfTIev15PUGvWqcxzyJt7r+BMNc36U/Z4wZdEmmDilpvrIBZ85dAaRI7T6/\nd8/MZR97mrjcCwEmTeQMXpzDFDdM09X96dGVtEH0D7xe/WyBP3ysh8xch55xFQEn\nlF9BW/2mpi7pJF+xqfe4YTUJV8Si5Y5zhLdVVcVFjxUlnhc51l91La75+qAQtj80\n1wuctCUPCfYRveyFpb88HxGImCntRNKhn4c30ZE3XVNZk9Quso9e35pB45Zlxgh0\nvNpGp3aiVF02T/1SJLyG7kRRQb7rCwFJ5dLmCpXL2wKBgQD/sFn7thOeSaiYtr+e\nArPOkWtEsM6aWUTYQdEFURjO9DRIZWMX276ufOre47SpFNKu+rSFbtdFdNdGSA9a\nhePzyZCQt6Sb8wCiS7SsD2N0TjJ6ulTKANqLk6z38Iq1xtRDgqzLmmq50yzgKI/N\nmkyDOxV6DkteOFm7Ee4HJvHq0wKBgQC9hte6mjsetNbivuNKbdKBCoWoR9AjK6aO\nKQk4nClklVCVKowaUwoxrsqRLDVkrX2TM/GjpMn+YYb8vebJ/5BK8BTihdvEjTGO\n+CrvJ6XM65kwV/X2tlIWtOBMUdneq2QHc6umaReK2+FUTehUimh6FPvZJoKELpcP\nnzct66SQgwKBgCbYv0Mb7a0d2cyh70jtdi4LL/X2utz+dRQ6I6ygHpnKxmq9ZKnK\nTBUsi26jv930ePH2yxh+t5wo3VAjQJnrP6/ZTup9zDeZWt5NjDyb9etEuiylRJ6Q\nNKQCIsRkul5VwAglwWUJp+9loyrHXtnI+JjzkBbENzUwcImYdsaFZznbAoGAVSkp\n9mcm+X04sVokt2TxmZooxJzAIY2ToX0+73j8AH43X09m9M0rX3ey/dhnhX2PV32X\nrnh1ayBXj2mlMk7rf0CxobeUMJVhF2TbpeqizZlvlBFyLBFwgVN1FdYRl8Rbhh2r\nm3LNaU+zyDXZl2M53uFe6QwsyUhGCHb6TF/96hECgYEA3cIIARk5RZ9umtwUcNFY\nIGt4UlpseWGBh3VHye0gQpxa3EPMf9v6ZUW4UrkvAyF4O9LnYE1CNADEH5nqqrme\nHjoHt/1rERaGyUz2W90pRhxg0GqyGUBxXaazGknARdhbsWsDxnu9wxBCehsY4Zmp\n1OY1n3FrHdqArakQffCF2QI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kruthika@fresh-argon-466710-m4.iam.gserviceaccount.com",
+  "client_id": "104066681656347316554",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kruthika%40fresh-argon-466710-m4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
